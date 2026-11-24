@@ -1,15 +1,18 @@
 {
-  "name": "Jihad Al-Wasabi — Architectural Digital Worlds",
-  "short_name": "Jihad Worlds",
-  "description": "A connected digital portfolio of systems, projects, skills, and ideas.",
-  "start_url": "./",
+  "name": "Jihad Al-Wosabi — Architectural Digital Worlds",
+  "short_name": "Jihad Al-Wosabi",
+  "description": "Personal architectural & Computer Information Systems (CIS) portfolio of Jihad Mohammed Sinan Al-Wosabi.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/?source=pwa",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#1b2423",
-  "theme_color": "#1b2423",
+  "background_color": "#11110f",
+  "theme_color": "#080d0b",
   "orientation": "any",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
